@@ -1,0 +1,20 @@
+{
+  "files": {
+    "scripts/1-initialize-sdk.js": [
+      {
+        "id": "3fb0b52c-b877-40b5-b2a1-dd31d15b83a4",
+        "line": 19,
+        "version": 607,
+        "index": 511
+      }
+    ],
+    "scripts/4-set-claim-condition.js": [
+      {
+        "id": "45e317c6-7f2f-4ec9-acea-380f020ec326",
+        "line": 19,
+        "version": 289,
+        "index": 577
+      }
+    ]
+  }
+}
